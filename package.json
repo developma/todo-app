@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "material-ui": "^0.20.0",
+    "react-redux": "^5.0.7",
+    "react-sortable-hoc": "^0.6.8",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "reselect": "^3.0.1"
+  }
+}
